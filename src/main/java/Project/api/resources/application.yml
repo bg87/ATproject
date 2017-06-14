@@ -1,0 +1,7 @@
+security:
+   oauth2:
+     client:
+       clientId: ATproject
+       clientSecret: @ATprojectngspring
+       scope: read,write
+       auto-approve-scopes: '.*'

@@ -1,6 +1,6 @@
 package services;
 
-import ProjectApi.Application;
+import api.Application;
 import ProjectApi.domain.User;
 import ProjectApi.services.UserService;
 import org.junit.Test;

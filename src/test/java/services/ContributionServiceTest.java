@@ -1,6 +1,6 @@
 package services;
 
-import ProjectApi.Application;
+import api.Application;
 import ProjectApi.domain.Contribution;
 import ProjectApi.domain.Project;
 import ProjectApi.domain.User;
